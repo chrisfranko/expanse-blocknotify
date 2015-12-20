@@ -1,0 +1,29 @@
+{
+  "name": "expanse-blocknotify",
+  "description": "An app for expanse that emulates the functionality of blocknotify in bitcoin.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "tags": [
+    "http",
+    "request",
+    "http-request",
+    "simple",
+    "web services",
+    "util",
+    "http client",
+    "client",
+    "request client",
+    "http cache",
+    "cache",
+    "HTTP caching"
+  ],
+  "author": "Christopher Franko <chrisjfranko@gmail.com>",
+  "dependencies": {
+    "web3": "git://github.com/expanse-org/web3.js.git#5c1bb972decde6b5a20ab1a813bb9d23b684e722",
+    "requestify": "0.2.0"
+  },
+  "repository": "https://github.com/chrisfranko/expanse-blocknotify.git",
+  "engines": {
+    "node": "~0.10.x"
+  }
+}
